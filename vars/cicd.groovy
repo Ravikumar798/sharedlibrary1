@@ -1,6 +1,6 @@
 def contDownload(repo)
 {
-  echo git "https://github.com/intelliqittrainings/${repo}.git"
+  echo git "https://github.com/Ravikumar798/${repo}.git"
 }
 def contBuild()
 {
